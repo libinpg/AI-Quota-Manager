@@ -9,7 +9,7 @@ from unittest.mock import patch, MagicMock
 
 # 假设你的主程序代码已经保存为模块，比如 ai_quota_manager.py
 # 如果是在同一文件中，也可以直接引用下面这些名字
-from ai_quota_manager import (
+from AI_Quota_Manager import (
     load_config,
     save_config,
     AIPlatform,
